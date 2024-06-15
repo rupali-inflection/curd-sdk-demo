@@ -17,12 +17,12 @@
   "dependencies": {
     "node-fetch": "^2.6.1"
   },
-"author": "rupali",
-"repository": {
-  "type": "git",
-  "url": "https://github.com/rupali-inflection/curd-sdk-demo.git"
-},
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com/"
-}
+  "author": "rupali",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupali-inflection/curd-sdk-demo.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
